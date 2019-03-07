@@ -11,6 +11,8 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
             Console.Write("ABC");
+            Console.Write("ABC");
+            Console.Write("ABC");
         }
     }
 }
